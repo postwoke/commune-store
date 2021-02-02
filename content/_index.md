@@ -14,7 +14,7 @@ sections:
       enable Cart actions.
     actions: []
   - type: featured_products_section
-    title: Best sellers
+    title: ''
     section_id: best_sellers_section
     light_title: true
     icon: false
