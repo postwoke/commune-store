@@ -12,12 +12,7 @@ sections:
 
       Don't forget to add your Snipcart API key to the site's configuration to
       enable Cart actions.
-    actions:
-      - type: action
-        title: See all items
-        url: /store
-        style: primary
-        arrow: true
+    actions: []
   - type: featured_products_section
     title: Best sellers
     section_id: best_sellers_section
