@@ -3,7 +3,6 @@ baseURL: /
 params:
   palette: green
   snipcart_api_key: ''
-  logo_light: images/logo-white.svg
   logo_dark: images/logo.svg
   hamburger_background_image: /images/leaf-light-grey.svg
   bg_image_primary: /images/header.jpg
